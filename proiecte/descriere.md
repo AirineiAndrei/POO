@@ -1,1 +1,1 @@
-Basica Hangman interface
+Basic Hangman interface
